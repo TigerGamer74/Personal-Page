@@ -47,18 +47,6 @@ h3 {
      left: 10%;
 }
 
-.mountain {
-    display: inline-block;
-    position: absolute;
-    width: 100%;
-    left: 0px;
-    top: 447px;
-    padding: 0px;
-    
-}
-
-
-
 .programmer {
     font-size: 150%;
     color:#EEEEEE;
