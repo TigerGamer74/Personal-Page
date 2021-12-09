@@ -38,13 +38,13 @@ h3 {
 }
 
 .moon {
-    width: 700px;
-    height: 700px;
     position: absolute;
-    left: 100px;
-    top: 250px;
-    padding: 0px;
-    margin: 0px; 
+     padding: 0px;
+     margin: 0px ;
+     height: 65%;
+     width: 35%;
+     top: 32%;
+     left: 10%;
 }
 
 .mountain {
